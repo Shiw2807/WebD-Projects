@@ -1,2 +1,2 @@
-TinDog Starting Files
-Click here to view: [https://shiw2807.github.io/WebD-Projects/](url)
+This repositary contains all the project-based learning while doing the "Complete 2022 Web Development Bootcamp" by Angela Yu.
+
